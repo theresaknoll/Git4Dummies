@@ -1,0 +1,6 @@
+Doc.txt
+
+Testdatei:
+Dr. Emmet "Doc" Brown
+Actor: Christopher Lloyd
+Year: 1985
